@@ -5,7 +5,7 @@ output: github_document
 ---
 #My first commit
 
-Test.
+Test for first commit.
 
 #My second commit
 
@@ -14,3 +14,7 @@ More test.
 #Third commit
 
 Even more test.
+
+#my test branch
+
+Text for commiting to test branch.
