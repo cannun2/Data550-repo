@@ -10,6 +10,8 @@ I am now adding a new line to this section.
 
 __Here is text on test branch.__
 
+__More text.__
+
 #My second commit
 
 More test.
