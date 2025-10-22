@@ -2,9 +2,11 @@ My first git repo (main branch)
 ================
 Chris Annunziato
 
-\#My first commit
+# My first commit
 
 Test for first commit. I am now adding a new line to this section.
+
+**Here is text on test branch.**
 
 \#My second commit
 
